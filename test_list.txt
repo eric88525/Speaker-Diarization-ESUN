@@ -1,0 +1,3 @@
+/mnt/E/sea120424/data/Techine/unsilence/wav/S004/U0035/00001.wav
+/mnt/E/sea120424/data/Techine/unsilence/wav/S029/U0284/00004.wav
+/mnt/E/sea120424/data/CALLHOME/mp32wav/4065.wav
